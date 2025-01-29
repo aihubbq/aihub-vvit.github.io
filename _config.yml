@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "AI HUB @ VVIT"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,12 +22,12 @@ repository               : "aihubbq/aihubbq.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "AiNuggets"
+  pronouns         : # example: "They/hThem"  
+  bio              : "A student community of VVIT dedicated to leverage AI"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "Vasireddy Venkatadri Institute of Technology"
+  uri              : # https://www.vvvitguntur.com/
   email            : "none@example.org" 
 
   # Academic websites
