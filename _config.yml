@@ -21,7 +21,7 @@ repository               : "aihubbq/aihubbq.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/GitHubProfilePic.png"
+  avatar           : "https://github.com/aihubbq/aihubbq.github.io/blob/36cd4f2c7b65dc6a0e9499aec58baa27c9940a58/images/GitHubProfilePic.png"
   name             : "AiNuggets"
   pronouns         : "They/Them"  
   bio              : "A student community of VVIT dedicated to leverage AI"
