@@ -22,7 +22,7 @@ repository               : "aihubbq/aihubbq.github.io"
 author:
   # Biographic information
   avatar           : "images/profile.png"
-  name             : #"AiNuggets"
+  name             : # "AiNuggets"
   pronouns         : "They/Them"  
   bio              : "A student community of VVIT dedicated to leverage AI"
   location         : # "Earth"
